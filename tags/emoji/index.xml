@@ -13,7 +13,7 @@
       <pubDate>Thu, 01 Oct 2020 17:55:28 +0800</pubDate>
       
       <guid>https://Lexterl33t.github.io/posts/test/</guid>
-      <description></description>
+      <description>#include &amp;lt;stdio.h&amp;gt; int main(int argc, char **argv) { printf(&amp;#34;Hello world&amp;#34;); return (0); } </description>
     </item>
     
   </channel>

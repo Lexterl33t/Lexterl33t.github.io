@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Bryton</title>
-    <link>https://Lexterl33t.github.io/posts/</link>
-    <description>Recent content in Posts on Bryton</description>
+    <title>esaip on Bryton</title>
+    <link>https://Lexterl33t.github.io/tags/esaip/</link>
+    <description>Recent content in esaip on Bryton</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Jun 2022 17:55:28 +0800</lastBuildDate><atom:link href="https://Lexterl33t.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Jun 2022 17:55:28 +0800</lastBuildDate><atom:link href="https://Lexterl33t.github.io/tags/esaip/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EsaipCTF - WakemeUP (500 pts)</title>
       <link>https://Lexterl33t.github.io/posts/esaip_ctf_wakemeup_reverse_engeneering/</link>
@@ -18,15 +18,6 @@ Donc en effet on se retrouve sur un challenge de reverse créer par Podalirius. 
 Donc dans un premier temps analysons le binaire.
 code du main:
 __int64 __fastcall main(int a1, const char **a2, char **a3) { char *v3; // rax __int16 v5; // [rsp+1Eh] [rbp-32h] char v6[40]; // [rsp+20h] [rbp-30h] BYREF unsigned __int64 v7; // [rsp+48h] [rbp-8h] v7 = __readfsqword(0x28u); strcpy(v6, &amp;#34;______________________________________&amp;#34;); v5 = 1; v3 = basename(*a2); if ( !</description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>https://Lexterl33t.github.io/posts/test/</link>
-      <pubDate>Thu, 01 Oct 2020 17:55:28 +0800</pubDate>
-      
-      <guid>https://Lexterl33t.github.io/posts/test/</guid>
-      <description>#include &amp;lt;stdio.h&amp;gt; int main(int argc, char **argv) { printf(&amp;#34;Hello world&amp;#34;); return (0); } </description>
     </item>
     
   </channel>
